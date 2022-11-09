@@ -1,0 +1,10 @@
+pyjokes
+pyttsx3
+pywhatkit
+wikipedia
+python_weather
+asyncio
+matplotlib
+speech_recognition
+pandas
+
