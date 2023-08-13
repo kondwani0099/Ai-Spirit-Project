@@ -1,0 +1,17 @@
+//pip install all these libraries to run the project
+pyjokes
+pyttsx3
+pywhatkit
+wikipedia
+python_weather
+asyncio
+matplotlib
+speech_recognition
+pandas
+tensorflow
+openai
+opencv-python
+numpy
+pyaudio
+mediapipe
+
